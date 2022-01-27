@@ -11,7 +11,7 @@ public static list<Contact> getConData(id recId){
 // public void contactFieldsConcat(Id accid){
 
 // accountid = accid;
-//Todays changes 27/01/2022 added
+//Todays changes 27/01/2022 New added 10:11
 // string query ='select id, name, (select id, name from Contacts) from account where id =: '+accountid;
 // accList = Database.query(query);
 // system.debug(accList);
